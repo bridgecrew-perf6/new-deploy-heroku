@@ -1,8 +1,8 @@
 export const PRODUCTS_API =
-  "https://new-deploy-heroku-chika.herokuapp.com//products";
+  "https://new-deploy-heroku-chika.herokuapp.com/products";
 
 export const BRANDS_API =
-  "https://new-deploy-heroku-chika.herokuapp.com//brands";
+  "https://new-deploy-heroku-chika.herokuapp.com/gitbrands";
 
 export const ADMIN_EMAIL = "begimay@gmail.com";
 // const brands = [
